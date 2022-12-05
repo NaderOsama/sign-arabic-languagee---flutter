@@ -1,4 +1,4 @@
-# Sign Languagee
+# Sign Language
 
 ## Using Flutter is used to develop cross-platform applications for Android, iOS
 Sign Language,

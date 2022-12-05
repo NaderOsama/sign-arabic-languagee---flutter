@@ -1,9 +1,7 @@
-# signarabiclanguagee
+# Sign Languagee
 
-A new Flutter project.
-
-## Getting Started
-Arabic Sign Language,
+## Using Flutter is used to develop cross-platform applications for Android, iOS
+Sign Language,
 AOU Graduation project
 2022 – 2023
 This project aims to help people with (hearing/speaking)

@@ -3,14 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+Arabic Sign Language,
+AOU Graduation project
+2022 – 2023
+This project aims to help people with (hearing/speaking)
+difficulties to facilitate communication with the community by converting sign language into voice and written speech by developing an application running on mobile devices (IOS & Android) for example:
 
-This project is a starting point for a Flutter application.
+•	To help people understand gestures and deal with the deaf and dumb easily in daily life
+•	Learn sign language
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
